@@ -251,6 +251,13 @@ public BufferedImage binarizar() {
  }
  
  
+ 
+
+ 
+ 
+ 
+
+ 
  public void concatenar_string_int_ruta_salida()
  {
       ruta_imag_salida = "C:\\Users\\UDS1\\Desktop\\Colombia\\imagenes\\resultados";
